@@ -1,2 +1,2 @@
 # terraform-provider-csp
-CSP Provider
+Terraform CSP Provider
